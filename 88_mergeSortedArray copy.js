@@ -22,8 +22,6 @@ var merge = function (nums1, m, nums2, n) {
     // }
 
 
-
-
     for (let i = 0; i < nums1.length; i++) {
 
 
